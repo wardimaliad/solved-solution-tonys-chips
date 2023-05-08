@@ -1,0 +1,11 @@
+Download Link: https://assignmentchef.com/product/solved-solution-tonys-chips
+<br>
+Tony’s Chips has recently been sold to a new independent company. The new company has hired you to manage a project that will move the old Website from an externally hosted solution to an internal one. The company’s leadership is very concerned about redundancy for their site, insisting that a back-up site be available as a failover in case the main site goes down. In addition, they want the site redesigned to allow customers to order products online.
+
+As part of your job, you must complete a 10-to-15 page paper that follows this project through the system development life cycle (SDLC). This assignment will require you to do the following:
+
+Discuss what it will take to build a Web architecture, move an existing Website with minimal downtime, and provide a disaster recovery solution to ensure the site is always available.The Web architecture should describe and justify operating system choices (i.e., Linux, Apache, MYSQL, PHP, Windows, IIS, SQL, etc.).Evaluate alternatives to the company self-hosting the site.Build a Gantt chart using Microsoft Project or equivalent software, showing all tasks associated with implementing the Website.The chart should include a minimum of five (5) tasks, each with three (3) sub-tasks.Explain and justify the system architecture you have selected.Illustrate the system architecture using Visio or equivalent software.Create a use case that documents the event of a customer ordering a bag of chips from the new Website.The use case should include a graphical representation using Visio or equivalent software and a text description of the events.Discuss the support operations that the internally hosted Website will require after implementation.Explain how you will evaluate the performance of the new site and the success of your project.The specific Course Learning Outcomes associated with this assignment are:
+
+Design high-level logical system characteristics (user interface design, design of data, and information requirements).Use contemporary CASE tools in process and data modeling.Use technology and information resources to research issues in systems analysis and development.Write clearly and concisely about Systems Analysis and Development topics using proper writing mechanics and technical style conventions.
+
+
